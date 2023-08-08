@@ -1,11 +1,3 @@
-//
-//  CategoryViewController.swift
-//  Todoey
-//
-//  Created by Евгений Калишук on 7.08.23.
-//  Copyright © 2023 App Brewery. All rights reserved.
-//
-
 import UIKit
 import SwipeCellKit
 import RealmSwift
